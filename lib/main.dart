@@ -26,7 +26,7 @@ class JournalTrendApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         brightness: Brightness.light,
-        primaryColor: const Color(0xFF6366F1),
+        primaryColor: const Color.fromARGB(255, 53, 56, 228),
         scaffoldBackgroundColor: const Color(0xFFF8FAFC),
         colorScheme: const ColorScheme.light(
           primary: Color(0xFF6366F1),
